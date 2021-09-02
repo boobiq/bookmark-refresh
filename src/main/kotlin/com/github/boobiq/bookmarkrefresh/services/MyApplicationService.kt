@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.boobiq.bookmarkrefresh.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.boobiq.bookmarkrefresh.MyBundle
 
 class MyApplicationService {
 
